@@ -1,7 +1,7 @@
-package eqp.config.logger
+package dmt.config.logger
 
 import com.typesafe.config.ConfigFactory
-import eqp.DataManagerTransformerMain
+import dmt.DataManagerTransformerMain
 import org.apache.log4j.{Level, Logger}
 
 object LoggerConfig {

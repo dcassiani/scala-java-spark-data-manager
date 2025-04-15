@@ -1,4 +1,4 @@
-package eqp.config.logger
+package dmt.config.logger
 
 import org.apache.log4j.Logger
 

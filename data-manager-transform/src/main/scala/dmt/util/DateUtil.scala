@@ -1,4 +1,4 @@
-package eqp.util
+package dmt.util
 
 import java.util.{Calendar, TimeZone}
 
